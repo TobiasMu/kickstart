@@ -1,0 +1,15 @@
+{
+  "name": "django-snippets",
+  "contributes": {
+    "snippets": [
+      {
+        "language": ["python", "python.django"],
+        "path": "./python/django.json"
+      },
+{
+        "language": ["python.django"],
+        "path": "./python/modelsdjango.json"
+      }
+    ]
+  }
+}
